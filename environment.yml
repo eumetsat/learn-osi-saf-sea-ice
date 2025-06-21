@@ -22,6 +22,5 @@ dependencies:
   - conda-forge::cdsapi
   - conda-forge::lxml
   - conda-forge::cmcrameri
-  - conda-forge::pykdtree
   - conda-forge::scikit-learn
   - conda-forge::seaborn

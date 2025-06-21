@@ -66,7 +66,6 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |cdsapi|0.6.1|Apache-2.0|https://anaconda.org/conda-forge/cdsapi|
 |lxml|5.1.0|BSD-3|https://anaconda.org/conda-forge/lxml/|
 |cmcrameri|1.8|MIT|https://anaconda.org/conda-forge/cmcrameri|
-|pykdtree|1.3.11|LGPL-3|https://anaconda.org/conda-forge/pykdtree|
 |scikit-learn|1.4.1|BSD-3|https://anaconda.org/conda-forge/scikit-learn|
 |seaborn|0.13.2|BSD-3|https://anaconda.org/conda-forge/seaborn|
 
