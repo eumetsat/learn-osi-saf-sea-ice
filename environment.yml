@@ -1,9 +1,8 @@
-# copyright: 2024 EUMETSAT
+# copyright: 2025 EUMETSAT
 # license: LICENSE.txt
 name: cmts_learn_osi_saf_sea_ice
 channels:
   - conda-forge
-  - eumetsat
 dependencies:
   # Core
   - conda-forge::python=3.10
@@ -17,9 +16,10 @@ dependencies:
   - conda-forge::cartopy
   - conda-forge::cmocean
   # External
-  - eumetsat::eumdac  
+  - conda-forge::eumdac  
   # Extension
   - conda-forge::cdsapi
+  - conda-forge::copernicusmarine
   - conda-forge::lxml
   - conda-forge::cmcrameri
   - conda-forge::scikit-learn
