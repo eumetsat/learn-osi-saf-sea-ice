@@ -16,6 +16,7 @@ dependencies:
   - conda-forge::matplotlib
   - conda-forge::cartopy
   - conda-forge::cmocean
+  - conda-forge::pydap
   # External
   - conda-forge::eumdac  
   # Extension
