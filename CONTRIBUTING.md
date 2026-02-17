@@ -1,6 +1,6 @@
 # List of development authors
-* Olivier Membrive (Météo-France)
 * Gwenaël Le Bras (Météo-France)
+* Olivier Membrive (Météo-France)
 * Thomas Lavergne (MET Norway)
 * Lou-Anne Quellet (Météo-France)
 
