@@ -22,7 +22,7 @@ For any questions about this repository, please contact ops@eumetsat.int.
  
 This code is licensed under an MIT license. See file LICENSE.txt for details on 
 the usage and distribution terms. No dependencies are distributed as part of 
-this package. Copyright EUMETSAT 2024.
+this package. Copyright EUMETSAT 2026.
 
 All product names, logos, and brands are property of their respective owners. 
 All company, product and service names used in this website are for identification 
@@ -30,8 +30,8 @@ purposes only.
 
 ## Authors
 
-* [**Olivier Membrive**](mailto://osi-saf.manager@meteo.fr) - [OSI SAF](https://osi-saf.eumetsat.int)
 * [**Gwenaël Le Bras**](mailto://osi-saf.manager@meteo.fr) - [OSI SAF](https://osi-saf.eumetsat.int)
+* [**Olivier Membrive**](mailto://osi-saf.manager@meteo.fr) - [OSI SAF](https://osi-saf.eumetsat.int)
 * [**Thomas Lavergne**](mailto://osi-saf.manager@meteo.fr) - [OSI SAF](https://osi-saf.eumetsat.int)
 * [**Cécile Hernandez**](mailto://osi-saf.manager@meteo.fr) - [OSI SAF](https://osi-saf.eumetsat.int)
 * [**Lou-Anne Quellet**](mailto://osi-saf.manager@meteo.fr) - [OSI SAF](https://osi-saf.eumetsat.int)
@@ -54,6 +54,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |---|---|---|---|
 |python|3.10.13|PSF|https://docs.python.org/3/license.html|
 |jupyterlab|4.1.2|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
+|numpy|1.26.4|BSD-3|https://anaconda.org/channels/conda-forge/packages/numpy/|
 |ipywidgets|8.1.2|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
 |dask|2024.2.1|BSD-3|https://anaconda.org/conda-forge/dask|
 |xarray|2024.2.0|Apache-2.0|https://anaconda.org/conda-forge/xarray|
@@ -68,6 +69,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |cmcrameri|1.8|MIT|https://anaconda.org/conda-forge/cmcrameri|
 |scikit-learn|1.4.1|BSD-3|https://anaconda.org/conda-forge/scikit-learn|
 |seaborn|0.13.2|BSD-3|https://anaconda.org/conda-forge/seaborn|
+|pydap|5.3.8|MIT|https://pypi.org/project/pydap/|
 
 ## Included components
 
